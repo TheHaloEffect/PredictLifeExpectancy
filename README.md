@@ -10,6 +10,9 @@ For reduced model:
 
 BIC: 7164.046187986783   R-Squared: 0.8372414639834214
 
+# Stage of Completion
+Done. Would like to challenge myself by running regression models on bigger datasets.
+
 
 # Screenshots
 <h3>P-Values</h3>
