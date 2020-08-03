@@ -4,22 +4,20 @@ A Multivariable Regression model that predicts life expectancy given other varia
 # BIC and R-Squared
 For original full model
 
-BIC: 7204.271948131657
-R-Squared: 0.8375967031163584
+BIC: 7204.271948131657   R-Squared: 0.8375967031163584
 
 For reduced model:
 
-BIC: 7164.046187986783
-R-Squared: 0.8372414639834214
+BIC: 7164.046187986783   R-Squared: 0.8372414639834214
 
 
 # Screenshots
 <h3>P-Values</h3>
-<img src="pvalues.png" alt="pvalues list" width="200" height="400">
+<img src="pvalues.PNG" alt="pvalues list" width="300" height="400">
 
 <h3>Actual vs Predicted Life Expectancy</h3>
-<img src="scatterplot.png" alt="Life Expectancy Graph" width="200" height="400">
+<img src="scatterplot.PNG" alt="Life Expectancy Graph" width="600" height="400">
  
 <h3>Actual and Predicted Values</h3>
-<img src="values.png" alt="Actual and Predicted Values" width="200" height="400">
+<img src="values.PNG" alt="Actual and Predicted Values" width="300" height="400">
 
