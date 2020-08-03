@@ -11,7 +11,7 @@ For reduced model:
 BIC: 7164.046187986783   R-Squared: 0.8372414639834214
 
 # Stage of Completion
-Done. Would like to challenge myself by running regression models on bigger datasets.
+Done. Would like to challenge myself by running regression models on bigger datasets. Overall, I am happy with the results as well as the line that was plotted.
 
 
 # Screenshots
