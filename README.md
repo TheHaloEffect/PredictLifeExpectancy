@@ -1,5 +1,5 @@
 # Description
-A Multivariable Regression model that predicts life expectancy given other variables. Used a Kaggle dataset that has data on many countries, regarding GDP, population, infant/adult mortality, life expectancy etc. It was an attempt to try out the machine learning knowledge that I have been teaching myself. Some variables seemed to have very high P-Values so I removed some from the model and compared the BIC and R-Squared values to the original full model and got a better BIC result with a very slightly lower R-Squared value.
+A Multivariable Regression model that predicts life expectancy given other variables. Used a Kaggle dataset that has data on many countries, regarding GDP, population, infant/adult mortality, life expectancy etc. It was an attempt to try out the machine learning knowledge that I have been teaching myself. Some variables seemed to have very high P-Values so I removed some from the model and compared the BIC and R-Squared values to the original full model and got a better BIC result with a slightly lower R-Squared value.
 
 # BIC and R-Squared
 For original full model
@@ -9,10 +9,6 @@ BIC: 7204.271948131657   R-Squared: 0.8375967031163584
 For reduced model:
 
 BIC: 7164.046187986783   R-Squared: 0.8372414639834214
-
-# Stage of Completion
-Done. Would like to challenge myself by running regression models on bigger datasets. Overall, I am happy with the results as well as the line that was plotted.
-
 
 # Screenshots
 <h3>P-Values</h3>
